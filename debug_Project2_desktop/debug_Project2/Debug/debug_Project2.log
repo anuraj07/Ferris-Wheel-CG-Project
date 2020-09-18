@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(24,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(40,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(67,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(71,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(78,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(87,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(93,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(97,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(97,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(98,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(98,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(103,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(110,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(117,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(121,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(121,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(122,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(122,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(129,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(133,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(133,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(134,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(134,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(139,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(146,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(153,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(157,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(157,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(158,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(158,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(170,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(171,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(171,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(176,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(177,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(177,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(178,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(178,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(184,50): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(185,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(185,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(192,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(203,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(216,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(220,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(229,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(245,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(253,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(261,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(269,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(292,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(299,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(306,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(313,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(325,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(396,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\debug_Project2\Source.cpp(400,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  debug_Project2.vcxproj -> C:\Users\Anuraj Deep\Desktop\cg_projects\debug_Project2_desktop\Debug\debug_Project2.exe
